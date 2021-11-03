@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/cameraTest/static/css/main.3e121788.chunk.css",
-    "main.js": "/cameraTest/static/js/main.2dfa52cc.chunk.js",
-    "main.js.map": "/cameraTest/static/js/main.2dfa52cc.chunk.js.map",
+    "main.js": "/cameraTest/static/js/main.1d57a53e.chunk.js",
+    "main.js.map": "/cameraTest/static/js/main.1d57a53e.chunk.js.map",
     "runtime-main.js": "/cameraTest/static/js/runtime-main.8271d3ee.js",
     "runtime-main.js.map": "/cameraTest/static/js/runtime-main.8271d3ee.js.map",
-    "static/js/2.5cec6baf.chunk.js": "/cameraTest/static/js/2.5cec6baf.chunk.js",
-    "static/js/2.5cec6baf.chunk.js.map": "/cameraTest/static/js/2.5cec6baf.chunk.js.map",
+    "static/js/2.e5242fda.chunk.js": "/cameraTest/static/js/2.e5242fda.chunk.js",
+    "static/js/2.e5242fda.chunk.js.map": "/cameraTest/static/js/2.e5242fda.chunk.js.map",
     "static/js/3.19855a12.chunk.js": "/cameraTest/static/js/3.19855a12.chunk.js",
     "static/js/3.19855a12.chunk.js.map": "/cameraTest/static/js/3.19855a12.chunk.js.map",
     "index.html": "/cameraTest/index.html",
     "static/css/main.3e121788.chunk.css.map": "/cameraTest/static/css/main.3e121788.chunk.css.map",
-    "static/js/2.5cec6baf.chunk.js.LICENSE.txt": "/cameraTest/static/js/2.5cec6baf.chunk.js.LICENSE.txt"
+    "static/js/2.e5242fda.chunk.js.LICENSE.txt": "/cameraTest/static/js/2.e5242fda.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8271d3ee.js",
-    "static/js/2.5cec6baf.chunk.js",
+    "static/js/2.e5242fda.chunk.js",
     "static/css/main.3e121788.chunk.css",
-    "static/js/main.2dfa52cc.chunk.js"
+    "static/js/main.1d57a53e.chunk.js"
   ]
 }
